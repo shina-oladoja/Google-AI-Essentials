@@ -1,8 +1,7 @@
-# Heading
-Google Ai Essentials. 
 
-# Heading
-Teacher: 
+# Google Ai Essentials. 
+
+## Teacher: 
 
 Maya: Vice President, Stretegy and Operations Google Research.
 
