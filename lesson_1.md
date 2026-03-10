@@ -10,7 +10,7 @@
 
 
 
-## We are introduced to Ai essentials, it capability to help us improve our productivity. 
+We are introduced to Ai essentials, it capability to help us improve our productivity. 
 from planning, to executing tasks, such as managing emails, helping to plan. 
 
 We understand that it is a dynamic shift in how we work today and in the near future. 
